@@ -1,0 +1,1 @@
+fun shapeArea(n: Int): Int = 1 + 2 * n * (n-1)
